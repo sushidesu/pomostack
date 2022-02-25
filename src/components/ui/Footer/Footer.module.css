@@ -1,0 +1,8 @@
+.wrapper {
+  padding: 20px 10px;
+  background-color: var(--color-gray-bg);
+  color: var(--color-gray-text);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
